@@ -1,0 +1,8 @@
+header li {
+    display: inline;
+}
+
+.container{
+    height: 1366px; 
+    margin: 0 auto;
+}
